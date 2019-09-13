@@ -21,7 +21,11 @@
 // git commit -m "adding files for github pages"
 // ssh-keygen -t rsa
 // set the key on github https://github.com/settings/keys
+// git remote set-url origin https://github.com/USERNAME/REPOSITORY.git
 // git push origin master
+// retourner sur la page github
+
+
 
   class App extends Component {
 
