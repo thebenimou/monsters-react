@@ -17,6 +17,11 @@
 //          "homepage": "https://thebenimou.github.io/monsters-react",
 //          ajouter  dans scripts "predeploy": "yarn build", "deploy":"gh-pages -d build"
 // yarn build
+// git add -A
+// git commit -m "adding files for github pages"
+// ssh-keygen -t rsa
+// set the key on github https://github.com/settings/keys
+// git push origin master
 
   class App extends Component {
 
