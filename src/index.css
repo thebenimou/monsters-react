@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  /* voir index.html */
+  font-family: 'Gayathri', sans-serif;
+  background:linear-gradient(
+    to left,
+    rgb(23, 76, 219) 0%,
+    rgb(41, 206, 206) 100%
+  );
+}
